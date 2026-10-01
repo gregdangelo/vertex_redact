@@ -1,0 +1,26 @@
+[[rule]]
+id = "credit_card"
+enabled = true
+action = "mask"
+confidence = 0.5
+keep_last = 4
+
+[[rule]]
+id = "email"
+enabled = true
+action = "redact"
+confidence = 0.5
+replacement = "EMAIL"
+
+[[rule]]
+id = "connection"
+enabled = true
+action = "report"
+confidence = 0.5
+
+[[rule]]
+id = "ip"
+enabled = true
+action = "mask"
+confidence = 0.5
+keep_last = 1

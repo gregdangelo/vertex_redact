@@ -1,0 +1,8 @@
+Vertex Redact 0.1.0
+
+format:csv
+debug 5
+There are headers: 5
+stdout:headers:
+---------- Findings Summary ----------
+pii: 2
