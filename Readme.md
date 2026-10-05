@@ -96,3 +96,7 @@ using the `-v` enable verbose analysis which will report on all findings.
 ```bash
 example data goes here :)
 ```
+
+### Contact
+Greg D'Angelo
+[LinkedIn](https://linkedin.com/in/gregdangelo)
